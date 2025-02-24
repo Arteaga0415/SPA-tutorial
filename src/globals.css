@@ -1,0 +1,57 @@
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.gap-5 {
+  gap: 0em 5em;
+}
+
+.rounded-md {
+  border-radius: 15px;
+}
+
+.bg-gray-50 {
+  background-color: rgba(169, 169, 169, 0.511);
+}
+
+.padding-5 {
+  padding: 1rem;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-start {
+  justify-content: start;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.h-full {
+  height: 100vh;
+}
+
+.w-full {
+  width: 100vw;
+}
+
+.text-black {
+  color: black;
+}
+
+.active {
+  background-color: rgba(0, 55, 255, 0.522);
+  padding: 0.5em;
+  border-radius: 15px;
+}
